@@ -18,9 +18,7 @@ manifest:
         - name: nice-view-gem
           remote: m165437
           revision: v0.3.0
-        - name: hammerbeam-slideshow
-          remote: gpeye
-          revision: main 
+
         - name: prospector-zmk-module
           remote: tokyo2006
           revision: change_spi2
