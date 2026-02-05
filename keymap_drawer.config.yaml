@@ -16,6 +16,7 @@ draw_config:
   arc_radius: 6.0
   append_colon_to_layer_header: true
   small_pad: 2.0
+  darmode: auto
   svg_extra_style: |
     /* For default sytles, see https://github.com/caksoylar/keymap-drawer/blob/main/keymap_drawer/config.py#L85 */
 
